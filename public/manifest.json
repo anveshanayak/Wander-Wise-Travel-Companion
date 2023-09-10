@@ -1,0 +1,11 @@
+{
+  "name": "Wander Wise",
+  "short_name": "wander_wise",
+  "description": "Fully-responsive Travel App that gives you real time data about nearby Attractions, Hotels and Restaurants. Used GoogleMaps API, TravelAdvisor API and Weather API. Next.js, TypeScript used in building app.",
+  "theme_color": "#42a5f5",
+  "background_color": "#42a5f5",
+  "display": "standalone",
+  "orientation": "landscape",
+  "scope": "/",
+  "start_url": "/"
+}
